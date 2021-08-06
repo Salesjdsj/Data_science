@@ -7,9 +7,8 @@
 # José Sales
 <sub>*Data science student* </sub>
 
-As a experienced Data Scientist and Air Force pilot I combine analytical skills, ability to work in team environments, and attention to details.
-
-My credential include a Degree in Aeronautical Science at the Air Force Academy.
+As an experienced Data Scientist and Fighter Pilot at Brazilian Air Force, I combine analytical skills, the ability to work in team environments, problem-solving, and attention to details.
+My credentials include a Degree in Aeronautical Science and Public Administration at the Air Force Academy.
 
 **Background in:** Python.
 
