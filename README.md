@@ -18,5 +18,5 @@ My credentials include a Degree in Aeronautical Science and Public Administratio
 
 
 ## Projetos:
-* **Análise dos Dados do Airbnb - Nova Iorque:** https://bit.ly/2L2cMwy
+* **Análise dos Dados do Airbnb - Nova Iorque:** https://bit.ly/3iymGXu
 
