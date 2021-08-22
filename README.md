@@ -17,5 +17,5 @@ As Fighter Pilot at Brazilian Air Force and Data Scientist, I combine analytical
 
 
 ## Projetos:
-* **Panorama da COVID-19 no Brasil:** https://bit.ly/3j65XLs
+* **Panorama do COVID-19 no Brasil:** https://bit.ly/3AVWlZO
 * **Análise dos Dados do Airbnb - Nova Iorque:** https://bit.ly/3iymGXu
