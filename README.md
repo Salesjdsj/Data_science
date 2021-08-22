@@ -5,7 +5,6 @@
 </p>
 
 # José Sales
-<sub>*Data science student* </sub>
 
 As Fighter Pilot at Brazilian Air Force and Data Scientist, I combine analytical skills, the ability to work in team environments, problem-solving, and attention to details. My credentials include a Degree in Aeronautical Science and Public Administration at the Air Force Academy.
 
