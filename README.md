@@ -16,6 +16,7 @@ As Fighter Pilot at Brazilian Air Force and Data Scientist, I combine analytical
 
 
 ## Projetos:
+* **Churn Prediction para uma empresa de Telecomunicações:** https://bit.ly/3Ayx7B2
 * **Detecção de fraudes em cartões de crédito:** https://bit.ly/3n0eTEN
 * **Panorama do COVID-19 no Brasil:** https://bit.ly/3AVWlZO
 * **Análise dos Dados do Airbnb - Nova Iorque:** https://bit.ly/3iymGXu
