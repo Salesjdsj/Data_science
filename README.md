@@ -16,7 +16,7 @@ As Fighter Pilot at Brazilian Air Force and Data Scientist, I combine analytical
 
 
 ## Projetos:
-* **[Fetal Health Classification - Classificação com PyCaret:]** (https://bit.ly/2ZcWY3Y)
+* **[Fetal Health Classification - Classificação com PyCaret](https://bit.ly/2ZcWY3Y)** 
 * **Health Insurance Cost Prediction - Regressão com PyCaret:** https://bit.ly/3lKfppi
 * **Churn Prediction para uma empresa de Telecomunicações:** https://bit.ly/3Ayx7B2
 * **Detecção de fraudes em cartões de crédito:** https://bit.ly/3n0eTEN
