@@ -11,11 +11,13 @@ As Fighter Pilot at Brazilian Air Force and Data Scientist, I combine analytical
 **Background in:** Python.
 
 **Links:**
+* [Portfolio](https://salesjdsj.github.io/)
 * [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-sales-7aa596218/)
 * [Medium](https://medium.com/@josesalesjdsj)
 
 
 ## Portfolio:
+* **[Previsão de demanda com Prophet](https://github.com/Salesjdsj/Data_science/blob/main/Previs%C3%A3o_de_Demanda_com_Prophet.ipynb)**
 * **[Fetal Health Classification - Classificação com PyCaret](https://bit.ly/2ZcWY3Y)** 
 * **[Health Insurance Cost Prediction - Regressão com PyCaret](https://bit.ly/3lKfppi)** 
 * **[Churn Prediction para uma empresa de Telecomunicações](https://bit.ly/3Ayx7B2)** 
